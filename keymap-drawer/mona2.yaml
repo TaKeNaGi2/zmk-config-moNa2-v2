@@ -37,9 +37,9 @@ layers:
   - {t: ESC, h: LEFT ALT}
   - {t: TAB, h: Ctl+LEFT SHIFT}
   - {t: TAB, h: LCTRL}
-  - {t: ENTER, h: LEFT SHIFT}
+  - {t: LANG2, h: LEFT SHIFT}
   - {t: SPACE, h: '2'}
-  - {t: DELETE, h: '3'}
+  - {t: '&to_layer_0 LANG1', h: '3'}
   - BACKSPACE
   - {t: ENTER, h: '1'}
   - '&mkp MB5'
