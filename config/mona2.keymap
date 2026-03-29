@@ -90,7 +90,7 @@
 &none      &kp N7        &kp N8        &kp N9        &kp STAR                     &kp SLASH  &none           &kp UP_ARROW    &kp LS(RC(T))    &none
 &kp LA(A)  &kp NUMBER_4  &kp N5        &kp NUMBER_6  &kp PLUS              &none  &kp LG(D)  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp LC(LA(RIGHT))
 &none      &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp MINUS  &none      &none  &kp EQUAL  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp LC(W)
-&none      &kp N0        &kp N0        &kp LA(N0)    &kp DOT    &kp DOT    &none  &none                                                       &mkp MB3
+&none      &none         &kp N0        &kp N0        &kp DOT    &kp DOT    &none  &none                                                       &mkp MB3
             >;
 
             sensor-bindings = <&scroll_right_left>;
