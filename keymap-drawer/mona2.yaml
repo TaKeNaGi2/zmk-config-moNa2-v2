@@ -27,7 +27,7 @@ layers:
   - C
   - V
   - B
-  - PAGE DOWN
+  - {t: PAGE DOWN, h: LEFT WIN}
   - END
   - N
   - {t: M, h: '6'}
@@ -139,7 +139,7 @@ layers:
   - F10
   - F11
   - F12
-  - ''
+  - F4
   - Alt+A
   - Ctl+C
   - Ctl+Z
@@ -150,7 +150,7 @@ layers:
   - F7
   - F8
   - F9
-  - ''
+  - F3
   - Ctl+B
   - ''
   - Ctl+D
@@ -162,7 +162,7 @@ layers:
   - F2
   - F5
   - F6
-  - ''
+  - F1
   - ''
   - ''
   - ''
