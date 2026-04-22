@@ -140,10 +140,10 @@
 
         SCROLL {
             bindings = <
-&none  &none  &none  &none  &none                  &none  &none  &none     &none      &none
-&none  &none  &none  &none  &none           &none  &none  &none  &none     &none      &none
-&none  &none  &none  &none  &none  &none    &none  &none  &none  &mkp MB1  &mkp RCLK  &mkp MB4
-&none  &none  &none  &none  &none  &none    &none  &none                              &mkp MB5
+&none  &none  &none  &none  &none                  &none        &none  &none     &none      &none
+&none  &none  &none  &none  &none           &none  &none        &none  &none     &none      &none
+&none  &none  &none  &none  &none  &none    &none  &none        &none  &mkp MB1  &mkp RCLK  &mkp MB4
+&none  &none  &none  &none  &none  &none    &none  &kp LA(TAB)                              &mkp MB5
             >;
 
             sensor-bindings = <&scroll_right_left>;
