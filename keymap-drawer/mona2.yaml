@@ -130,12 +130,12 @@ layers:
   - LEFT SHIFT
   - _
   '3':
-  - ''
+  - Ctl+Alt+RIGHT ARROW
   - Ctl+F
   - Ctl+V
   - Ctl+X
   - PSCRN
-  - ''
+  - Ctl+Sft+ESCAPE
   - F10
   - F11
   - F12
@@ -152,13 +152,13 @@ layers:
   - F9
   - F3
   - Ctl+B
-  - ''
+  - Gui+V
   - Ctl+D
   - Ctl+A
   - Ctl+S
   - DELETE
   - ''
-  - ''
+  - Gui+TAB
   - F2
   - F5
   - F6
@@ -170,7 +170,7 @@ layers:
   - ''
   - {type: held}
   - ''
-  - ''
+  - LEFT SHIFT
   - ''
   '4':
   - {type: held}
