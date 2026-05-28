@@ -134,7 +134,7 @@ layers:
   - Ctl+F
   - Ctl+V
   - Ctl+X
-  - PSCRN
+  - Gui+Sft+S
   - Ctl+Sft+ESCAPE
   - F10
   - F11
