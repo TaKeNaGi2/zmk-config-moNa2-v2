@@ -81,7 +81,7 @@ layers:
   - ''
   - '0'
   - '0'
-  - .
+  - ','
   - .
   - ''
   - {type: held}
@@ -257,6 +257,6 @@ layers:
   - ''
   - ''
   - ''
-  - ''
+  - '&mkp MCLK'
   - Alt+TAB
   - '&mkp MB5'
