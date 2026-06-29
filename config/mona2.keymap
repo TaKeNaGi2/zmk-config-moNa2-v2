@@ -96,7 +96,7 @@
 
         layer_2 {
             bindings = <
-&none        &kp TILDE  &kp SQT    &kp DQT   &kp STAR                          &kp SLASH       &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp EXCLAMATION  &kp QUESTION
+&kp TAB      &kp TILDE  &kp SQT    &kp DQT   &kp STAR                          &kp SLASH       &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp EXCLAMATION  &kp QUESTION
 &kp PERCENT  &kp HASH   &kp AMPS   &kp PIPE  &kp DLLR           &none          &kp BACKSLASH   &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp SEMI         &kp COLON
 &none        &kp CARET  &kp GRAVE  &kp DQT   &kp DOT   &none    &none          &kp AT          &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp COMMA        &kp DOT
 &none        &none      &none      &none     &none     &none    &kp BACKSPACE  &kp LEFT_SHIFT                                                                &kp UNDERSCORE
