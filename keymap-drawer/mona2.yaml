@@ -59,7 +59,7 @@ layers:
   - '5'
   - '6'
   - +
-  - ''
+  - Ctl+Alt+Q
   - Gui+D
   - LEFT ARROW
   - DOWN ARROW
