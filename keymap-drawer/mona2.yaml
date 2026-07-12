@@ -299,7 +299,7 @@ layers:
   - F3
   - F4
   - SPACE
+  - {t: ESC, h: LEFT ALT}
   - TAB
-  - LEFT ALT
   - ENTER
   - {t: default, h: toggle}
