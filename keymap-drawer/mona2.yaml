@@ -288,7 +288,7 @@ layers:
   - V
   - B
   - O
-  - ''
+  - RCTRL
   - N
   - M
   - '&mkp MB1'
@@ -300,6 +300,6 @@ layers:
   - F4
   - SPACE
   - TAB
-  - ''
+  - LEFT ALT
   - ENTER
   - {t: default, h: toggle}
