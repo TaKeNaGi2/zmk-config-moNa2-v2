@@ -151,10 +151,10 @@
 
         EF {
             bindings = <
-&kp Q   &kp W   &kp E   &kp R   &kp T                               &kp Y      &kp N1  &kp N2    &kp N3    &kp N4
-&kp A   &kp S   &kp D   &kp F   &kp F                 &kp U         &kp H      &kp J   &kp K     &kp L     &kp EQUAL
-&kp Z   &kp X   &kp C   &kp V   &kp B      &kp O      &kp RCTRL     &kp N      &kp M   &mkp MB1  &mkp MB2  &mkp MB3
-&kp F1  &kp F2  &kp F3  &kp F4  &kp SPACE  &kp TAB    &kp LEFT_ALT  &kp ENTER                              &to 0
+&kp Q   &kp W   &kp E   &kp R   &kp T                                     &kp Y      &kp N1  &kp N2    &kp N3    &kp N4
+&kp A   &kp S   &kp D   &kp F   &kp F                          &kp U      &kp H      &kp J   &kp K     &kp L     &kp EQUAL
+&kp Z   &kp X   &kp C   &kp V   &kp B      &kp O               &kp RCTRL  &kp N      &kp M   &mkp MB1  &mkp MB2  &mkp MB3
+&kp F1  &kp F2  &kp F3  &kp F4  &kp SPACE  &mt LEFT_ALT ESC    &kp TAB    &kp ENTER                              &to 0
             >;
 
             sensor-bindings = <&scroll_up_down>;
